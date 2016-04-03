@@ -17,3 +17,7 @@ int main(void)
 	printf("共有个%d三位数",n);
 	return 0;
 }
+
+
+
+author she
